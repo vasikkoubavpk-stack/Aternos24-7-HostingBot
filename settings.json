@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "DrVendaSmp.aternos.me:49691",
+    "port": 49691,
     "version": "",
     "try-creative": false
   },
