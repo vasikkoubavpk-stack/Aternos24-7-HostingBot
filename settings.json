@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DrVendaSmp.aternos.me:49691",
+    "ip": "DrVendaSmp.aternos.me",
     "port": 49691,
     "version": "",
     "try-creative": false
